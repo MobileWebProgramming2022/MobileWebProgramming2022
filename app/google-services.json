@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438058612307",
+    "firebase_url": "https://mobilewebprogr-default-rtdb.firebaseio.com",
+    "project_id": "mobilewebprogr",
+    "storage_bucket": "mobilewebprogr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438058612307:android:670770cfc158d4ed0278a6",
+        "android_client_info": {
+          "package_name": "kr.ac.gachon.alarm_checker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438058612307-m6kpdia6nfkng0i0b46o5c3rdtgcv185.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdDXEAzCnemoPGIRu8g9oUbNP0KNnLr0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438058612307-m6kpdia6nfkng0i0b46o5c3rdtgcv185.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
